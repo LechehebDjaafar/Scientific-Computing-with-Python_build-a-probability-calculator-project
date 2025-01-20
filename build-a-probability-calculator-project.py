@@ -48,4 +48,5 @@ probability = experiment(hat=hat,
                          num_balls_drawn=5,
                          num_experiments=2000)
 print(probability)  # Output: Approx. 0.356 (varies slightly due to randomness)
-
+#THE END
+#Welcom to the end of the code.
